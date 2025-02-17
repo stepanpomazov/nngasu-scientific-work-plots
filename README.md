@@ -19,9 +19,7 @@ As a result of the calculation, a graph of accelerator oscillations is displayed
 
 ## Documentation
 
--[Публикация]([https://elibrary.ru/item.asp?id=76405368](https://elibrary.ru/item.asp?id=76403703))
-
--[.py file](https://github.com/stepanpomazov/nngasu-plots-of-loads/blob/main/vis.pyw)
+-[Публикация](https://elibrary.ru/item.asp?id=76405368](https://elibrary.ru/item.asp?id=76403703)
 
 ***
 
